@@ -1,6 +1,6 @@
 - 👋 Cześć, jestem @Emps95FML.
 - 👀 Jestem zainteresowany skryptami do FiveM.
-- 🌱 Aktualnie tworze swoje proste skrypty ktore działaja z QBcore.
+- 🌱 Aktualnie tworze swoje proste skrypty ktore dzialaja z QBcore.
 - 💞️ Udostepniam za darmo moje projekty 😄.
 - 📫 Jak się ze mną skontaktować, wejdz na serwer dc https://discord.gg/hvRBgnDp.
 - 😄 Zaimki
